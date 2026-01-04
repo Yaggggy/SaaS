@@ -1,3 +1,9 @@
+
+<img width="1490" height="832" alt="image" src="https://github.com/user-attachments/assets/b231f7bc-3878-4d61-83e2-6e73fa97898a" />
+
+<img width="1749" height="840" alt="image" src="https://github.com/user-attachments/assets/dc6c3692-4e58-42b0-b8fe-211790b48f79" />
+
+
 # B2B SaaS Task Board
 
 A full-stack B2B SaaS application for task management with organization support, built with FastAPI and React.
